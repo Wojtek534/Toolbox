@@ -1,0 +1,16 @@
+{
+  "name": "toolbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/Wojtek534/Toolbox.git",
+  "license": "ISC",
+  "homepage": "https://github.com/Wojtek534/Toolbox#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-minify": "^1.0.0"
+  }
+}
